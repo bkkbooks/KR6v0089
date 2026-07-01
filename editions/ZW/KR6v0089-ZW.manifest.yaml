@@ -1,0 +1,106 @@
+canonical_identifier: bkk:krp/KR6v0089/ZW/v1
+canonical_location: https://kanripo.org/bkk/KR6v0089/ZW/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 二曜金剛合璧
+  identifiers:
+    krp: KR6v0089
+    cbeta: ZW08n0069
+    cbeta_old_id: ZW08n0069
+    authorityid: CA0008493
+    json_key: ZW0069
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/ZW/ZW08/ZW08n0069.xml
+    old_id: ZW08n0069
+  edition:
+    short: ZW
+assets:
+  parts:
+  - {seq: 1, filename: KR6v0089_001-ZW.yaml, hash: 'sha256:0fbfa1b92f766c7e3a320ece0c20e3fb76284aefc7a6ab27c24a594a9d2836c5'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6v0089_001-ZW.markers.yaml, hash: 'sha256:46a0c8bb8b6a77d207bf1bb7aecd7b4c7ffa9506007942aa0457f85c0f8fed61'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6v0089_ZW_001-juan-start
+    span:
+    - body
+    - 0
+    - 2929
+  label: ''
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0089_ZW_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 題解
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0089_ZW_001-mulu-2
+    span:
+    - body
+    - 628
+    - 628
+  label: 錄文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0089_ZW_001-mulu-3
+    span:
+    - body
+    - 630
+    - 630
+  label: 日光經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0089_ZW_001-mulu-4
+    span:
+    - body
+    - 914
+    - 914
+  label: 太陽經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0089_ZW_001-mulu-5
+    span:
+    - body
+    - 1145
+    - 1145
+  label: 月光經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0089_ZW_001-mulu-6
+    span:
+    - body
+    - 1299
+    - 1299
+  label: 太陰經
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0089_ZW_001-mulu-7
+    span:
+    - body
+    - 2004
+    - 2004
+  label: 金剛般若波羅蜜經纂
+  type: mulu
+  level: 1
+hash: sha256:2cce0f3ce9715336ed00577ccd734636f81cfb0405d022da293aa352037e02cf
