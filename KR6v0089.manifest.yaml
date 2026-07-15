@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6v0089/v1
 canonical_location: https://kanripo.org/bkk/KR6v0089/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 二曜金剛合璧
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR6v0089_001.yaml, hash: 'sha256:0fbfa1b92f766c7e3a320ece0c20e3fb76284aefc7a6ab27c24a594a9d2836c5'}
+  - {seq: 1, filename: KR6v0089_001.yaml, hash: 'sha256:97b9fc8234f5aeca86b791ee5a50e58724fbe01aa6d1412cc4991c21899c0bc0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6v0089_001.markers.yaml, hash: 'sha256:ff312531f949c46e19e968a9114f4d617e9e127504c8123980abcb9fda1e9adc'}
+  - {seq: 1, role: markers, filename: assets/KR6v0089_001.markers.yaml, hash: 'sha256:0ac43521c7f1971f911b36d1a5a4e58c063d9eaf6689e44ec2def79b293d3273'}
 table_of_contents:
 - ref:
     seq: 1
@@ -100,6 +100,9 @@ table_of_contents:
   label: 金剛般若波羅蜜經纂
   type: mulu
   level: 1
-hash: sha256:c5a64dcd8d6033532bd674d9933d4f4d65d5247e72350268851256656b1fc76a
+hash: sha256:83eb21273162b8acea30099af46d8be3ba9a7a6fc2f12db5989907a69cf96382
 editions:
 - short: ZW
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
